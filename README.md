@@ -10,17 +10,20 @@ The examples in this repository showcase practical implementations and usage pat
 
 ## Getting Started
 
-These examples are designed to work with any MCP supported AI agents directly in your IDE. Follow the specific example documentation for detailed usage instructions.
+These examples are designed to work with any MCP supported AI agents directly in your IDE. Follow these steps to get started:
+
+1. Set up the CircleCI MCP Server by following the instructions in the [server repository](https://github.com/CircleCI-Public/mcp-server-circleci/?tab=readme-ov-file#getting-started)
+2. Choose an example from the list below and follow its specific documentation for detailed usage instructions
 
 ## Examples
 
-- [Get build failure logs](./examples/get-build-failure-logs)
+- [Fix Failed CircleCI Builds](./examples/get-build-failure-logs)
 
 ## Prerequisites
 
 - IDE with MCP support
 - GitHub account
-- CircleCI account
+- [CircleCI account](https://circleci.com/signup/)
 
 ## Contributing
 
