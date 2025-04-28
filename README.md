@@ -23,7 +23,7 @@ These examples are designed to work with any MCP supported AI agents directly in
 
 - IDE with MCP support
 - GitHub account
-- [CircleCI account](https://circleci.com/signup/)
+- [CircleCI account](https://circleci.com/signup/) with [Personal Access Token](https://circleci.com/docs/managing-api-tokens/)
 
 ## Contributing
 
