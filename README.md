@@ -17,7 +17,7 @@ These examples are designed to work with any MCP supported AI agents directly in
 
 ## Examples
 
-- [Fix Failed CircleCI Builds](./examples/get-build-failure-logs)
+- [Fix Failed CircleCI Builds](./examples/fix-failed-builds)
 
 ## Prerequisites
 
