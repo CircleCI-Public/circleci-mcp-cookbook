@@ -19,6 +19,7 @@ These examples are designed to work with any MCP supported AI agents directly in
 
 - [Fix Failed CircleCI Builds](./examples/fix-failed-builds)
 - [Fix Failed Tests in CircleCI Build](./examples/fix-failed-tests)
+- [Find Flaky Tests in CircleCI Build](./examples/find-flaky-tests)
 
 ## Prerequisites
 
