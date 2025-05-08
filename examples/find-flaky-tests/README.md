@@ -29,5 +29,5 @@ The example shows how to:
    ![get flaky test chat 1](images/get-flaky-test-chat.png)
 8. The agent should make the tool call and retrieve the flaky test information. You can follow up to have the agent fix the flaky test.
    ![fix flaky test](images/fix-flaky-test.png)
-9. Now you can make a commit to the repository and push it to GitHub. This will trigger a new build in CircleCI. You should see the build passing.
-
+9. Now you can make a commit to the repository and push it to GitHub. This will trigger a new build in CircleCI. You should see the build passing. 
+   ![flaky test green](images/flaky-test-green.png)
